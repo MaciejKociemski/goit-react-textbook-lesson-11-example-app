@@ -1,4 +1,4 @@
-**Read in other languages: [rosyjski](README.md), [polski](README.pl.md).**
+**Read in other languages:  [polski](README.pl.md).**
 <pre>
    _______ ___   ___      ___      .___  ___. .______    __       _______ 
 |   ____|\  \ /  /     /   \     |   \/   | |   _  \  |  |     |   ____|
